@@ -1,0 +1,6 @@
+
+pretrain/stylegan2-ffhq-config-f.pt
+*.pt
+*.pt
+/pretrain
+/pretrain
