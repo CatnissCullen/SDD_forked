@@ -11,7 +11,6 @@ from einops import rearrange, repeat
 import torchvision
 import yaml
 import torch
-import numpy as np
 from PIL import Image
 from torchvision import transforms
 

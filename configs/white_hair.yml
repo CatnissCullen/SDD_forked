@@ -5,7 +5,7 @@ train:
   max_images: 2
   vis_grad: true
 
-synthesizer:
+synthesizer:  # the model 'f' to generate new image when ensuring fidelity
   target: synthesizer.stylegan_synthesizer.StyleganMapperSynthesizer
   params:
     generator:

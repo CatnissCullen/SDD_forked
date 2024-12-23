@@ -1,6 +1,7 @@
 import torch
+import  torchvision
 
-from .base_synthesizer import BaseSynthesizer
+from synthesizer.base_synthesizer import BaseSynthesizer
 from utils.file_util import *
 import math
 
